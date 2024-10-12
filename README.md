@@ -1,6 +1,6 @@
-👋 Olá, eu sou o Diego, trabalho como programador front-end.
+👋 Olá, eu sou o Diego, trabalho como programador desenvolvedor Front-end.
 
-👀 Tenho interesses por front-end, ecossistema JavaScript, e também gosto de baladas e bares.
+👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript e pela área de negócios e empreendedorismo.
 
 🌱 Atualmente estou me aperfeiçoando em programação Full Stack e aprendendo novas tecnologias no curso da EBAC.
 
