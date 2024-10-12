@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Diego, trabalho como programador desenvolvedor Front-end.
+👋 Olá, eu sou o Diego, estou em busca da primeira oportunidade como desenvolvedor Front-end.
 
 👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript e pelas áreas de negócios e empreendedorismo.
 
