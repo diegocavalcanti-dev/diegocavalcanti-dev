@@ -1,8 +1,12 @@
 👋 Olá, eu sou o Diego, desenvolvedor Full Stack.
 
-👀 Tenho interesses pelas áreas de UX, front-end, ecossistema JavaScript e pelas áreas de negócios e empreendedorismo.
+🎯 Interesses e Especializações:
 
-🌱 Atualmente estou me aperfeiçoando em programação Full Stack e aprendendo novas tecnologias no curso da EBAC.
+Desenvolvimento Frontend: Domínio em React, JavaScript, TypeScript, Tailwind CSS, Styled-Components, entre outras tecnologias.
+Backend robusto: Experiência com Python, Django Rest Framework, PostgreSQL e criação de APIs escaláveis.
+DevOps: Implantação de projetos com Docker, PythonAnywhere, Vercel e automações com GitHub Actions.
+
+🌱 Concluí recentemente minha formação em Desenvolvimento Full Stack Python pela EBAC, onde desenvolvi habilidades práticas em construção de aplicações completas, desde o planejamento até o deploy.
 
 <div align="center">
   <a href="https://github.com/diegocavalcanti-dev">
