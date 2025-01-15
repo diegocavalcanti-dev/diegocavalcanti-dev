@@ -23,25 +23,9 @@ DevOps: Implantação de projetos com Docker, PythonAnywhere, Vercel e automaç�
   
 </div>
 
-
-### Olá 👋
-
-###### Sobre o Pedro
-7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
-
-
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocavalcanti-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegocavalcanti-dev&repo=portfolio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocavalcanti-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
