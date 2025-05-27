@@ -6,8 +6,6 @@ Desenvolvimento Frontend: Domínio em React, JavaScript, TypeScript, Tailwind CS
 Backend robusto: Experiência com Python, Django Rest Framework, PostgreSQL e criação de APIs escaláveis.
 DevOps: Implantação de projetos com Docker, PythonAnywhere, Vercel e automações com GitHub Actions.
 
-🌱 Concluí recentemente minha formação em Desenvolvimento Full Stack Python, onde desenvolvi habilidades práticas em construção de aplicações completas, desde o planejamento até o deploy.
-
 <div align="center">
   <a href="https://github.com/diegocavalcanti-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocavalcanti-dev&layout=compact&langs_count=7&theme=dracula"/>
