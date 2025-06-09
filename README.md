@@ -8,6 +8,7 @@ DevOps: Implantação de projetos com Docker, PythonAnywhere, Vercel e automaç�
 
 <div align="center">
   <a href="https://github.com/diegocavalcanti-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocavalcanti-dev&show_icons=true&&langs_count=7&theme=dracula" alt="diegocavalcanti-dev" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocavalcanti-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
